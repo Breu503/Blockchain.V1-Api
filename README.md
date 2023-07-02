@@ -1,6 +1,7 @@
 # Blockchain Gimici.v1/Api
 
 #Blockchain API library (Python, v1)
+https://github.com/GIMICI/HTTPS-Blockhain-Gimici.v1-Api.wiki.git
 
 An official Python module for interacting with the Blockchain.info API. Compatible with both Python 2 and Python 3.
 
