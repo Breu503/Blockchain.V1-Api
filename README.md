@@ -1,4 +1,4 @@
-#  Blockchain Gimici.v1/Api
+# *Blockchain Gimici.v1/Api*
 
 #Blockchain API library (Python, v1)
 https://github.com/GIMICI/HTTPS-Blockhain-Gimici.v1-Api.wiki.git
